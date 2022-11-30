@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++ & Python (Gain experience)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rock-77?tab=repositories](https://github.com/Rock-77?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Rock-77?tab=repositories)
 
 - 💬 Ask me about **PC Tweaking**
 
